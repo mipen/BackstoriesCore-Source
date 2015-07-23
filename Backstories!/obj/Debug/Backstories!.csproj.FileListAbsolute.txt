@@ -1,0 +1,10 @@
+C:\Users\ACER\Desktop\Backstories!\Backstories!\bin\Debug\Backstories!.dll
+C:\Users\ACER\Desktop\Backstories!\Backstories!\bin\Debug\Backstories!.pdb
+C:\Users\ACER\Desktop\Backstories!\Backstories!\bin\Debug\Assembly-CSharp.dll
+C:\Users\ACER\Desktop\Backstories!\Backstories!\bin\Debug\UnityEngine.dll
+C:\Users\ACER\Desktop\Backstories!\Backstories!\bin\Debug\Assembly-UnityScript-firstpass.dll
+C:\Users\ACER\Desktop\Backstories!\Backstories!\bin\Debug\Boo.Lang.dll
+C:\Users\ACER\Desktop\Backstories!\Backstories!\bin\Debug\UnityScript.Lang.dll
+C:\Users\ACER\Desktop\Backstories!\Backstories!\obj\Debug\Backstories!.csprojResolveAssemblyReference.cache
+C:\Users\ACER\Desktop\Backstories!\Backstories!\obj\Debug\Backstories!.dll
+C:\Users\ACER\Desktop\Backstories!\Backstories!\obj\Debug\Backstories!.pdb
