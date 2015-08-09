@@ -9,3 +9,14 @@ C:\Users\ACER\Desktop\Backstories!\Backstories!\bin\Debug\BackstoriesCore.pdb
 C:\Users\ACER\Desktop\Backstories!\Backstories!\bin\Debug\Assembly-CSharp-firstpass.dll
 C:\Users\ACER\Desktop\Backstories!\Backstories!\obj\Debug\BackstoriesCore.dll
 C:\Users\ACER\Desktop\Backstories!\Backstories!\obj\Debug\BackstoriesCore.pdb
+C:\Users\ACER\Desktop\BackstoriesCore-Source\Backstories!\bin\Debug\BackstoriesCore.dll
+C:\Users\ACER\Desktop\BackstoriesCore-Source\Backstories!\bin\Debug\BackstoriesCore.pdb
+C:\Users\ACER\Desktop\BackstoriesCore-Source\Backstories!\bin\Debug\Assembly-CSharp.dll
+C:\Users\ACER\Desktop\BackstoriesCore-Source\Backstories!\bin\Debug\UnityEngine.dll
+C:\Users\ACER\Desktop\BackstoriesCore-Source\Backstories!\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\ACER\Desktop\BackstoriesCore-Source\Backstories!\bin\Debug\Assembly-UnityScript-firstpass.dll
+C:\Users\ACER\Desktop\BackstoriesCore-Source\Backstories!\bin\Debug\Boo.Lang.dll
+C:\Users\ACER\Desktop\BackstoriesCore-Source\Backstories!\bin\Debug\UnityScript.Lang.dll
+C:\Users\ACER\Desktop\BackstoriesCore-Source\Backstories!\obj\Debug\BackstoriesCore.csprojResolveAssemblyReference.cache
+C:\Users\ACER\Desktop\BackstoriesCore-Source\Backstories!\obj\Debug\BackstoriesCore.dll
+C:\Users\ACER\Desktop\BackstoriesCore-Source\Backstories!\obj\Debug\BackstoriesCore.pdb

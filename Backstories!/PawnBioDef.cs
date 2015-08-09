@@ -27,7 +27,7 @@ namespace Backstories
             bio.adulthood.slot = BackstorySlot.Adulthood;
 
             bio.name.ResolveMissingPieces();
-            bio.PostLoad();
+            //bio.PostLoad();
 
             bool flag = false;
             foreach (var error in bio.ConfigErrors())
