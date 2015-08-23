@@ -2,6 +2,6 @@
 <Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
     <StartAction>Program</StartAction>
-    <StartProgram>C:\Users\ACER\Desktop\RimWorld857Win\RimWorld857Win.exe</StartProgram>
+    <StartProgram>C:\Users\Liam\Desktop\RimWorld906Win\RimWorld906Win.exe</StartProgram>
   </PropertyGroup>
 </Project>

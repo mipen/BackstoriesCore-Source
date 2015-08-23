@@ -20,3 +20,14 @@ C:\Users\ACER\Desktop\BackstoriesCore-Source\Backstories!\bin\Debug\UnityScript.
 C:\Users\ACER\Desktop\BackstoriesCore-Source\Backstories!\obj\Debug\BackstoriesCore.csprojResolveAssemblyReference.cache
 C:\Users\ACER\Desktop\BackstoriesCore-Source\Backstories!\obj\Debug\BackstoriesCore.dll
 C:\Users\ACER\Desktop\BackstoriesCore-Source\Backstories!\obj\Debug\BackstoriesCore.pdb
+C:\Users\Liam\Desktop\RimWorld Modding\BackstoriesCore-Source\Backstories!\obj\Debug\BackstoriesCore.csprojResolveAssemblyReference.cache
+C:\Users\Liam\Desktop\RimWorld Modding\BackstoriesCore-Source\Backstories!\obj\Debug\BackstoriesCore.dll
+C:\Users\Liam\Desktop\RimWorld Modding\BackstoriesCore-Source\Backstories!\obj\Debug\BackstoriesCore.pdb
+C:\Users\Liam\Desktop\RimWorld Modding\BackstoriesCore-Source\Backstories!\bin\Debug\BackstoriesCore.dll
+C:\Users\Liam\Desktop\RimWorld Modding\BackstoriesCore-Source\Backstories!\bin\Debug\BackstoriesCore.pdb
+C:\Users\Liam\Desktop\RimWorld Modding\BackstoriesCore-Source\Backstories!\bin\Debug\Assembly-CSharp.dll
+C:\Users\Liam\Desktop\RimWorld Modding\BackstoriesCore-Source\Backstories!\bin\Debug\UnityEngine.dll
+C:\Users\Liam\Desktop\RimWorld Modding\BackstoriesCore-Source\Backstories!\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Liam\Desktop\RimWorld Modding\BackstoriesCore-Source\Backstories!\bin\Debug\Assembly-UnityScript-firstpass.dll
+C:\Users\Liam\Desktop\RimWorld Modding\BackstoriesCore-Source\Backstories!\bin\Debug\Boo.Lang.dll
+C:\Users\Liam\Desktop\RimWorld Modding\BackstoriesCore-Source\Backstories!\bin\Debug\UnityScript.Lang.dll

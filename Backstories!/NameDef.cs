@@ -14,14 +14,17 @@ namespace Backstories
         {
             base.PostLoad();
 
-            PawnName name = new PawnName();
-            name.first = this.first;
-            name.nick = this.nick;
-            name.last = this.last;
-            name.ResolveMissingPieces();
-            PawnNameDatabaseSolid.AddPlayerContentName(name, this.genderPossibility);
+            PawnNameDatabaseSolid.AddPlayerContentName(Name, this.genderPossibility);
 
             //Log.Message(name.ToString());
+        }
+
+        public NameTriple Name
+        {
+            get
+            {
+                return new NameTriple(first, nick, last);
+            }
         }
     }
 }

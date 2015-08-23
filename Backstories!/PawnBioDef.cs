@@ -7,7 +7,7 @@ namespace Backstories
     {
         public BackstoryDef childhoodDef;
         public BackstoryDef adulthoodDef;
-        public PawnName name;
+        public NameDef name;
         public GenderPossibility gender;
 
         public override void ResolveReferences()
@@ -16,7 +16,7 @@ namespace Backstories
 
             PawnBio bio = new PawnBio();
             bio.gender = this.gender;
-            bio.name = this.name;
+            bio.name = name.Name;
 
             bio.childhood = BackstoryDatabase.GetWithKey(this.childhoodDef.UniqueSaveKeyFor());
             bio.childhood.shuffleable = false;
@@ -44,7 +44,7 @@ namespace Backstories
                 return;
             }
             if (!SolidBioDatabase.allBios.Contains(bio))
-                SolidBioDatabase.allBios.Add(bio); 
+                SolidBioDatabase.allBios.Add(bio);
         }
     }
 }
